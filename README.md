@@ -1,5 +1,5 @@
 ## Sobre o projeto: Beauty Clinic
-Site de beleza desenvolvido para clinica de estética com integração com WhatsApp e Google Maps.
+Site de beleza desenvolvido para clínica de estética com integração com WhatsApp e Google Maps.
 
 ## Tecnologias Usadas
  * HTML
