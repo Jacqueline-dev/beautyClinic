@@ -15,13 +15,13 @@ Site de beleza desenvolvido para clínica de estética com integração com What
 ### Autor
 ---
 
-<a href="https://augecode.com/">
+<a href="">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/jacqueline-dev" width="100px;" alt=""/>
  <br />
- <sub><b>Jacqueline Ferreira</b></sub></a> <a href="https://augecode.com/" title="Augecode">🚀</a>
+ <sub><b>Jacqueline</b></sub></a> <a href="https://augecode.com/" title="Augecode"></a>
 
 
-Feito com 💜 por Jaqueline Ferreira 👋🏽 Entre em contato!
+Feito com 💜 por Jaqueline Ferreira 
 
 [![Linkedin](https://img.shields.io/badge/Meu%20Perfil-Linkdin-blueviolet)](https://www.linkedin.com/in/jacqueline-ferreira-a152761a5/)
 
